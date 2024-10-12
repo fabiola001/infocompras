@@ -12,7 +12,7 @@ app.use(express.json());
 app.use('/clientes', clienteRoutes);
 // Definir una ruta simple
 app.get('/', (req, res) => {
-    res.send('¡Hola! Conexión a SQL Server funcionandaaaaao.');
+    res.send('¡Hola! Conexión a SQL Server KHJADJKAHSKD.');
 });
 
 // Iniciar el servidor y conectar a la base de datos
